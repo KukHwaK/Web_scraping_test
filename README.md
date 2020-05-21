@@ -1,2 +1,2 @@
 # Web_scraping_test
- To practice simple web scraping
+ To practice web scraping using beautifulsoup
